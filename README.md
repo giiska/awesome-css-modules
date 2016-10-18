@@ -7,3 +7,6 @@ A collection of awesome things about [CSS Modules](https://github.com/css-module
   
  - CSS Library
   - [pure-css](https://github.com/StevenIseki/pure-css)
+
+ - Boilerplate
+  - [css-module-npm-boilerplate](https://github.com/StevenIseki/css-module-npm-boilerplate)
