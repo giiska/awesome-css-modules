@@ -13,3 +13,4 @@ A collection of awesome things about [CSS Modules](https://github.com/css-module
 
  - Boilerplate
    + [css-module-npm-boilerplate](https://github.com/StevenIseki/css-module-npm-boilerplate)
+   + [webpack-demo](https://css-modules.github.io/webpack-demo/)
